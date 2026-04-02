@@ -10,8 +10,8 @@ export default function Home() {
          <span>Join Us</span>
          <h1>Best Learning Opportunitise</h1>
          <p>we know how large object will act, but things on a smaall scale just do not act that way</p>
-         <a href='#'className='btn btn-red'>Get Quote Now</a>
-         <a href='#'className='btn btn-transparent'>Learn More</a>
+         <a href='/'className='btn btn-red'>Get Quote Now</a>
+         <a href='/'className='btn btn-transparent'>Learn More</a>
 
         </div>
         <div className='card-container'>

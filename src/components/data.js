@@ -19,7 +19,7 @@ export const cardData = [
         bgColor:"#89EAA8" 
     },
     {
-         id:2,
+         id:3,
         img:<FaCreditCard />,
         title:"50+ online course",
         descripttion: "The gradual accumulation of information about atomic and small-scale behavior...",
@@ -56,7 +56,7 @@ export const coursesData = [
     lessons :"121 Lessons"
   },
   {
-    id:1,
+    id:3,
     img:"./image3.jpg",
     department:"Web Devlopment",
     title:"HTML & CSS",
@@ -87,7 +87,7 @@ export const ratingData =[
     job:"developer"
   },
   {
-    id:1,
+    id:3,
     stars:"* * * * *",
     img:"image2.jpg",
     description:"This is course exceeded my expectations! The content was well-orgnaized, the explananations were cler, and the hands-on projects helped me build real-world skills. Highly recommrnd it to anyone looking to learn",

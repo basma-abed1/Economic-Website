@@ -28,7 +28,7 @@ export default function Course({img, title,department,description,rating,price,d
                {lessons}</p>
 
           </div>
-         <a href='#' className='btn-learn'>Learn More <FaChevronRight />
+         <a href='/' className='btn-learn'>Learn More <FaChevronRight />
          </a>
 
         </div>
