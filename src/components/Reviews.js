@@ -2,7 +2,7 @@ import React from 'react'
 import SectionHeader from './SectionHeader'
 import {ratingData} from "./data.js"
 import Review from "./Review.js"
-export default function () {
+export default function Reviews() {
   return (
     <section id='reviews'>
         <div className='container'>

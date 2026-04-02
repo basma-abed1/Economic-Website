@@ -47,7 +47,7 @@ export default function Footer() {
         
         </div>
         <div className='copyright'>
-          <p>&copy 2026 | All right reseved made by <a href='' target='_blank'>Basma Alsayed</a></p>
+          <p>&copy 2026 | All right reseved made by <a href='#' target='_blank'>Basma Alsayed</a></p>
         </div>
       </div>
     </footer>
